@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "UNDEAD",
+  "base_artist": "麻婆豆腐",
+  "createdAt": "2026-03-22T16:21:51.084286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alive or Undead",
+      "artist": "Powerwolf",
+      "has_synced": true,
+      "path": "select/01_Alive_or_Undead_Powerwolf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alive or Undead - Orchestral Version",
+      "artist": "Powerwolf",
+      "has_synced": true,
+      "path": "select/02_Alive_or_Undead_-_Orchestral_Version_Powerwolf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Empire of the Undead (live from studio)",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/03_Empire_of_the_Undead_(live_from_studio)_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Live Undead",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/04_Live_Undead_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Undead - Bonus Track",
+      "artist": "The Big Moon",
+      "has_synced": false,
+      "path": "select/05_The_Undead_-_Bonus_Track_The_Big_Moon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Undead Will Feast",
+      "artist": "Cannibal Corpse",
+      "has_synced": false,
+      "path": "select/06_The_Undead_Will_Feast_Cannibal_Corpse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Undead Journey",
+      "artist": "Nocturnus",
+      "has_synced": true,
+      "path": "select/07_Undead_Journey_Nocturnus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Undead",
+      "artist": "Semblant",
+      "has_synced": true,
+      "path": "select/08_The_Undead_Semblant.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Undead",
+      "artist": "Hollywood Undead",
+      "has_synced": true,
+      "path": "select/09_Undead_Hollywood_Undead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Undead",
+      "artist": "The Haunted",
+      "has_synced": true,
+      "path": "select/10_Undead_The_Haunted.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blight (Undead)",
+      "artist": "Derek Duke",
+      "has_synced": false,
+      "path": "select/11_Blight_(Undead)_Derek_Duke.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Undead",
+      "artist": "Aviators",
+      "has_synced": true,
+      "path": "select/12_Undead_Aviators.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Undead (Hollywood Undead на русском)",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/13_Undead_(Hollywood_Undead_на_русском)_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Undead",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/14_Undead_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Молодость (Hollywood Undead Cover",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/15_Молодость_(Hollywood_Undead_Cover_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNDEAD",
+      "artist": "麻婆豆腐",
+      "has_synced": false,
+      "path": "select/pl_01_UNDEAD_麻婆豆腐.txt"
+    }
+  ]
+}
